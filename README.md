@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asheerwad-01
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python, HTML, CSS, Java, JavaScript.
 - 💞️ I’m looking to collaborate on(Prefer not to say)
 - 📫 How to reach me ...
 
